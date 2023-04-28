@@ -8,3 +8,7 @@ print (a + b)
 c=4
 
 salsa = 3
+
+ensalada = '43'
+
+type(ensalada)
