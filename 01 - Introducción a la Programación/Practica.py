@@ -11,4 +11,6 @@ salsa = 3
 
 ensalada = '43'
 
-type(ensalada)
+print (type(ensalada))
+
+print(salsa+ int(ensalada))
