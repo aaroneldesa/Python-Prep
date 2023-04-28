@@ -5,4 +5,4 @@ b = 4
 
 print (a + b)
 
-hi
+c=4
